@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://facedigital.com.br/images/Logo-FACE-Digital.svg" width="150">
+	<img src="#" width="150">
 </p>
 
 <br><br><br>
@@ -37,7 +37,7 @@ Algumas das tecnologias com as quais trabalhamos:
 Tenha em mente que iremos testar sua aplicação com a equipe de produto da Jelly. Para isso, é fundamental que possamos subir a aplicação desenvolvida em qualquer máquina (independente da configuração).
 
 ## Detalhes da avalição
-Crie um repositório público em seu github e envie para o e-mail: dev@facedigital.com.br
+Crie um repositório público em seu github e envie para o e-mail: lucas.fullstack.dev@gmail.com
 
 Duração: 1 dia
 Avaliaremos (não necessariamente nesta ordem):
