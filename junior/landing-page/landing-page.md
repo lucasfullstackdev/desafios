@@ -16,7 +16,7 @@ O propósito deste teste prático é avaliar suas habilidades com programação,
 O teste de divide em etapas:
 
 - Criar e configurar adequadamente o ambiente de desenvolvimento [wordPress](https://br.wordpress.org/)
-- Replicar a [landing page]()
+- Replicar a [landing page](https://github.com/lucasfullstackdev/desafios/blob/dev/junior/landing-page/landing-page.png)
 - Exportar a landing page desenvolvida para uma outra instalação wordpress
 
 ## Pontos importantes
